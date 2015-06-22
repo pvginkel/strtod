@@ -1,0 +1,5 @@
+[package]
+
+name = "strtod"
+version = "0.0.1"
+authors = [ "Pieter van Ginkel <pvginkel@gmail.com>" ]

@@ -3,3 +3,11 @@
 name = "strtod"
 version = "0.0.1"
 authors = [ "Pieter van Ginkel <pvginkel@gmail.com>" ]
+description = "A high precision floating point parser implementation for Rust"
+documentation = "http://pvginkel.github.io/strtod/strtod/"
+homepage = "https://github.com/pvginkel/strtod"
+repository = "https://github.com/pvginkel/strtod"
+readme = "README.markdown"
+keywords = ["strtod", "parse", "parsing", "float", "f64"]
+license = "Apache-2.0"
+license-file = "LICENSE"
